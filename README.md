@@ -35,11 +35,9 @@ Contributions are welcome! To contribute, follow these steps:
 - `index.js` 
 - `summarize.js` 
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ai-text-summarizer.git
+  ### Clone the repository
+  ```bash
+  git clone https://github.com/your-username/ai-text-summarizer.git
 
 ## Contact Information
 Feel free to reach out with any questions or suggestions. You can contact me at [sumalathasalapu123@gmail.com](mailto:sumalathasalapu123@gmail.com).
